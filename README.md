@@ -11,7 +11,7 @@ There is a docker-compose.yml file with settings to enable postgres in a contain
 
 ## Other Notes
 
-This API has been tested for accuracy/functionality using Postman as well.
+This API has been tested for accuracy/functionality using Postman.
 
 ## Installation
 I used Yarn for this, but feel free to follow the instructions below for starting the server using NPM.
